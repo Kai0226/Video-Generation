@@ -4,7 +4,7 @@ Video Interpolation:
 
 SEINE
 
-DynamiCrafter  https://github.com/Doubiiu/DynamiCrafter
+DynamiCrafter(DCinterp)  https://github.com/Doubiiu/DynamiCrafter
 
 SparseCtrl
 
